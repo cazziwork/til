@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub Pages on t-sis blog</title>
+    <link>https://mougenko.github.io/til/tags/github-pages/</link>
+    <description>Recent content in GitHub Pages on t-sis blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 24 Aug 2020 15:53:57 +0900</lastBuildDate>
+    
+        <atom:link href="https://mougenko.github.io/til/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Github Action Publish Pages</title>
+      <link>https://mougenko.github.io/til/2020/github-action-publish-pages/</link>
+      <pubDate>Mon, 24 Aug 2020 15:53:57 +0900</pubDate>
+      
+      <guid>https://mougenko.github.io/til/2020/github-action-publish-pages/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
