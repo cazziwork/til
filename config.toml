@@ -1,6 +1,6 @@
 baseURL = "https://mougenko.github.io/til"
 languageCode = "ja"
-title = "My New Hugo Site"
+title = "t-sis blog"
 theme = "jeffprod"
 publishDir = "docs"
 
