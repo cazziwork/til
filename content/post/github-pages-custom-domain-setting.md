@@ -6,3 +6,7 @@ tags: []
 author: mougenko
 draft: true
 ---
+
+httpだけなら、route53でカスタムドメイン取得して、CNAME設定して、GitHubのリポジトリに設定すればよい。
+
+https化

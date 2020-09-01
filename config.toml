@@ -1,4 +1,4 @@
-baseURL = "https://mougenko.github.io/til"
+baseURL = "https://blog.tsis-web.com/"
 languageCode = "ja"
 title = "t-sis blog"
 theme = "jeffprod"

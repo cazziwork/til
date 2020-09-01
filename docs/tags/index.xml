@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on t-sis blog</title>
-    <link>https://mougenko.github.io/til/tags/</link>
+    <link>https://blog.tsis-web.com/tags/</link>
     <description>Recent content in Tags on t-sis blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     
-        <atom:link href="https://mougenko.github.io/til/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.tsis-web.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
